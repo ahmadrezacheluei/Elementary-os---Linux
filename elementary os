@@ -1,0 +1,29 @@
+1. sudo apt update
+# به‌روزرسانی لیست پکیج‌ها
+
+2. sudo apt upgrade
+# ارتقای پکیج‌های نصب‌شده
+
+3. sudo apt install [package-name]
+# نصب یک برنامه
+
+4. sudo apt remove [package-name]
+# حذف یک برنامه
+
+5. neofetch
+# نمایش اطلاعات سیستم
+
+6. df -h
+# بررسی فضای دیسک
+
+7. top
+# بررسی میزان استفاده از RAM و CPU
+
+8. apt search [keyword]
+# جستجوی یک پکیج در مخازن
+
+9. sudo apt autoremove
+# پاک‌سازی پکیج‌های اضافی
+
+10. shutdown now
+# خاموش کردن سیستم از طریق ترمینال
